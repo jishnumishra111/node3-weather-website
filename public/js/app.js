@@ -1,4 +1,3 @@
-console.log("Client Side File loaded")
 
 // fetch('https://puzzle.mead.io/puzzle').then((response=>{
 
